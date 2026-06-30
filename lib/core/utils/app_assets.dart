@@ -1,0 +1,39 @@
+abstract class AppAssets {
+  static const fruitsBasket = 'assets/images/fruit basket.png';
+  static const fruitsHup = 'assets/images/fruits_hup.png';
+  static const pineapples = 'assets/svg/pineapple-cuate1.svg';
+  static const plant = 'assets/images/plant.png';
+  static const ellipseGreen = 'assets/images/Ellipse9.png';
+  static const ellipsWhite = 'assets/images/Ellipse10.png';
+  static const arrow = 'assets/images/arrow.png';
+  static const google = 'assets/images/Social Icons.png';
+  static const notcheckBox = 'assets/images/not_Checkbox.png';
+  static const checkedBox = 'assets/images/Checkbox (1).png';
+  static const avocado = 'assets/images/Avocado.png';
+  static const cocktile = 'assets/images/coctile.png';
+  static const banannaa = 'assets/images/Bitmap.png';
+  static const groub = 'assets/images/Group.png';
+  static const pineapple = 'assets/images/pineapple.png';
+  static const profile = 'assets/images/profile.png';
+  static const strawperry = 'assets/images/strawberry.png';
+  static const watermelon = 'assets/images/watermelon.png';
+  static const add = 'assets/images/add.png';
+  static const activeshopping = 'assets/images/active_shopping (1).png';
+  static const inactiveshopping = 'assets/images/inactive_shopping-cart.png';
+
+  static const activeuser = 'assets/images/active_user.png';
+  static const inactiveuser = 'assets/images/inactive_user.png';
+  static const inActiveHome = 'assets/images/inactive_home.png';
+  static const activeHome = 'assets/images/active_home.png';
+  static const activeElement = 'assets/images/active_element.png';
+  static const inActiveElement = 'assets/images/inactive_element.png';
+  static const setting = 'assets/images/setting.png';
+  static const notfication = 'assets/images/notif.png';
+  static const minmimz = 'assets/images/minmiz.png';
+  static const one = 'assets/images/1.png';
+  static const tow = 'assets/images/2.png';
+  static const three = 'assets/images/3.png';
+  static const foure = 'assets/images/4.png';
+  static const five = 'assets/images/5.png';
+  static const six = 'assets/images/6.png';
+}

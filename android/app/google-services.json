@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1000135660682",
+    "project_id": "fruits-c4d50",
+    "storage_bucket": "fruits-c4d50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000135660682:android:fa338bbb8fd91f44dc8973",
+        "android_client_info": {
+          "package_name": "com.example.fruits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000135660682-uv580k0lhlb74i1sioeesp9vrem16498.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fruits",
+            "certificate_hash": "b13cc07d804a586b5f93248a51e4a24404a75b75"
+          }
+        },
+        {
+          "client_id": "1000135660682-0a7oktac7cldtap8qt2i8gs2s2nghjau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMkWfThfqLXVz3Ga5GyiG2KkDZ_NiS924"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000135660682-0a7oktac7cldtap8qt2i8gs2s2nghjau.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000135660682-hcinthfl1k98n4fe4bv5dvfrjukjjjj9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fruits"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
