@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/images/fruits_hup.png" alt="Fruit Hub Banner" width="100%"/>
+<img src="assets/images/fruits_hup.png" alt="Fruit Hub Banner" width="50%"/>
 
 # 🍓 Fruit Hub
 ### *Fresh Fruits, Delivered to Your Door*
