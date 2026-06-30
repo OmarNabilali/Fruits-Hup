@@ -222,7 +222,7 @@ This started as a personal training project, but contributions, suggestions, and
 |--|------|------|
 | 👤 | **Omar Nabil** | Developer |
 
-[![GitHub](https://img.shields.io/badge/GitHub-omar--nabil-181717?style=flat-square&logo=github)](https://github.com/omar-nabil)
+[![GitHub](https://img.shields.io/badge/GitHub-omar--nabil-181717?style=flat-square&logo=github)](https://github.com/OmarNabilali)
 
 </div>
 
