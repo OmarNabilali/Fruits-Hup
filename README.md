@@ -52,17 +52,14 @@ The app allows users to browse fruit categories, search for specific items, add 
 |---------|-------------|
 | 🍎 **Fruit Catalog** | Browse a wide variety of fresh fruits organized by category |
 | 🗂️ **Categories Filter** | Filter products easily by fruit category |
-| 🔍 **Smart Search** | Quickly search for any fruit by name |
 | ⭐ **Reviews & Ratings** | View and leave ratings/reviews on products |
 | 🛒 **Shopping Cart** | Add items to cart, adjust quantities, and manage your order before checkout |
 | 💳 **Checkout** | Smooth and simple checkout flow to complete purchases |
 | 📦 **Order History** | Track and review all your previous orders |
 | 🔐 **Authentication** | Secure sign up, login, and password recovery via Firebase Auth |
 | ✉️ **Email Verification** | Verify your account via email before accessing the app |
-| 🕒 **Recently Viewed** | Keep track of items you've recently browsed |
 | 👤 **User Profile** | Manage your personal account information |
 | 🎨 **Onboarding Experience** | Smooth onboarding flow introducing the app on first launch |
-| 📱 **Responsive UI** | Clean, modern design optimized for mobile screens |
 
 ---
 
